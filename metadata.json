@@ -1,0 +1,6 @@
+{
+  "name": "Surveyors Institute of Malawi Portal",
+  "description": "Enterprise portal and corporate website for the Surveyors Institute of Malawi (SIM) to automate membership, licensing, CPD tracking, certificates, and payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
